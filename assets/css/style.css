@@ -1,10 +1,3 @@
-/**
-* Template Name: MyResume - v2.0.0
-* Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -1164,4 +1157,12 @@ section {
 
 #footer .credits {
   font-size: 13px;
+}
+
+/*-----img-------*/
+#pic-mn{
+  border-radius:115px 25px 250px 2500px;
+  box-shadow: gray 20px 0px 20px;
+  border:solid 1px black;
+
 }
